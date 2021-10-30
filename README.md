@@ -2,7 +2,7 @@
 - 👀 I’m a master candidate in UCL-CASA, study smart cities and urban analytics
 - 🌱 I’m currently learning R, Python, GIS
 - 📫 To contact me .............
-- 📫 email: ucfnzl0@ucl.ac.uk
+- 📫 email: willowliu154@gmail.com
 
 <!---
 zhixuanliu1/zhixuanliu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
