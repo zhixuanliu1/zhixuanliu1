@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zhixuanliu1
-- 👀 I’m a master candidate in UCL-CASA, study smart cities and urban analytics
-- 🌱 I’m currently learning R, Python, GIS
-- 📫 To contact me .............
+- 👋 Hi, I’m Willow
+- 👀 I’m a master candidate in UCL-CASA, studying smart cities and urban analytics
+- ❤️ I love spatial data. Love science. Love environment. Love the world!
+- 🌱 I’m currently learning R, Python, QGIS, HTML, JAVASCRIPT...
 - 📫 email: willowliu154@gmail.com
 
 <!---
